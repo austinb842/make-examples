@@ -20,3 +20,16 @@
 2.1:    Compile shared library
 
 2.2:    Compile .so, then compile executable linked against .so
+
+
+## Instructions
+
+1. Fork the repo so that you have a copy on your account
+
+2. Clone your copy of the repo
+
+3. Check that examples in both branches work
+
+4. Merge Basic-1 with master.
+
+5. Merge Sharedlib-2 with master.
